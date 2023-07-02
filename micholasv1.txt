@@ -1,0 +1,27 @@
+REM Title: Micho rickroll
+REM ABRIR YOUTUBE POR powershell
+DELAY 300
+GUI r
+DELAY 500
+STRING powershell
+ENTER
+DELAY 2000
+STRING start chrome https://www.youtube.com/watch?v=dQw4w9WgXcQ
+ENTER
+STRING start chrome https://www.youtube.com/@CodigoAxolotl
+ENTER
+DELAY 2000
+REM abrir notepad para mensaje
+DELAY 1000
+GUI r
+DELAY 500
+STRING notepad
+DELAY 500
+ENTER
+DELAY 750
+STRING SUSCRIBETE A MI CANALLLLLLLLLLLL
+ENTER
+STRING ARRIBA EL CHIVAS Y EL PUMAS
+ENTER
+DEFAULT_DELAY 50
+
